@@ -24,7 +24,7 @@ This dataset is licensed under the CC-BY-NC-4.0 License. See the [LICENSE](LICEN
       Chen, Weifeng and 
       Zhou, Xiong and 
       Huang, Qixing and 
-      Li, Erran"
+      Li, Erran",
     booktitle = "Proceedings of European Conference on Computer Vision 2024",
     year = "2024",
     url = "https://arxiv.org/abs/2402.06118",
