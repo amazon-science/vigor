@@ -5,7 +5,7 @@ This repository contains the evaluation dataset of image descriptions as describ
 ## Attributions
 
 The underlying images were selected from [MS-COCO](https://cocodataset.org). 
-The model used to generate the descriptions is LLaVA. The underlying LLM is based on [LLaMA v1](https://github.com/meta-llama/llama/tree/llama_v1) by Meta, (see the applicable [license agreement](LLaMA_LICENSE_AGREEMENT.docx)). 
+The model used to generate the descriptions is LLaVA. The underlying LLM is based on [LLaMA v1](https://github.com/meta-llama/llama/tree/llama_v1) by Meta (see the applicable [license agreement](LLaMA_LICENSE_AGREEMENT.docx)). 
 
 ## Security
 
